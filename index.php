@@ -66,7 +66,7 @@
 			</div>
 
 			<div>
-			<form action="logout.php">
+			 <form action="logout.php">
 			<button onclick="window.location.href='login.php'" type="button" class="btn btn-info btn-block rounded-pill">เจ้าหน้าที่วัสดุ</button>
 			</div>
 			
